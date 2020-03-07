@@ -1,6 +1,8 @@
 ﻿body {
     background-color: #FFF;
     font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 main{
     text-decoration:none;
@@ -308,4 +310,100 @@ div#logo img{
     margin-top:15px;
     margin-left:5px;
     float:left;
+}
+
+div.backshadow {
+    background-color: #ACACAC;
+}
+
+h4.indexH4 {
+    text-decoration: underline deepskyblue;
+    padding-top: 2em;
+    margin-left: 15em;
+}
+
+img.indexMargins{
+    float:left;
+    margin-left: 1em;
+    margin-top: 2em;
+}
+
+p.indexP {
+    margin-right: 1em;
+    margin-left: 15em;
+}
+
+div.indexSocials{
+    margin-left: 2.75em;
+    margin-top: 0.5em;
+    font-size: 1.5em;
+    letter-spacing: 0.175em;
+}
+
+h1.indexH1{
+    text-align:center;
+}
+
+button.indexButton1 {
+    background-color: deepskyblue;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+}
+
+img.whyChooseUs1{
+    float:left;
+    margin-right: 2.5em;
+}
+
+p.indexP2 {
+    padding-right: 2em;
+}
+
+img.whyChooseUs2 {
+    float: right;
+}
+
+h3.indexH32 {
+    padding-left: 1em;
+    padding-top: 2em;
+}
+
+p.indexP3 {
+    padding-left: 1em;
+}
+
+button.indexButton2 {
+    background-color: deepskyblue;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+}
+
+div.buttonSpacing{
+    padding-left: 1em;
+}
+
+div.left{
+    float:left;
+}
+
+div.right{
+    float:right;
+}
+
+div.text-center{
+    text-align:center;
 }
